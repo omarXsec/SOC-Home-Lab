@@ -72,3 +72,12 @@ Built a Classic Dashboard titled "SOC Attack Detection Dashboard" with three pan
 - Understood how Windows Event Logs are generated and forwarded to a SIEM
 - Simulated real attacker techniques mapped to the MITRE ATT&CK framework
 - Built working detection rules and a monitoring dashboard in Splunk
+
+## Screenshots
+
+### Alerts
+![Alerts](screenshots/alerts.png)
+
+### SOC Dashboard
+![Dashboard Part 1](screenshots/dashboard_1.png)
+![Dashboard Part 2](screenshots/dashboard_2.png)
